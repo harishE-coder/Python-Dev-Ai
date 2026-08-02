@@ -1,5 +1,4 @@
 # 🏢 Core Employee Domain Model
-
 A robust, object-oriented Python module designed as the foundational business logic for an HR Management backend. This model demonstrates strict data validation, state management, and encapsulation, making it ideal for integration with web frameworks like FastAPI, Django, or Flask.
 
 ## 🚀 Key Features
